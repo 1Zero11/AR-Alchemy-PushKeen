@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0951d6eeb727bc2795d9750c30e1670, type: 3}
+  m_Name: Mixing Potion of Strength
+  m_EditorClassIdentifier: 
+  Liquid1: {fileID: 11400000, guid: 19e4ddc8d38deb502a919d025f7f7a04, type: 2}
+  Liquid2: {fileID: 11400000, guid: e978f086e41fcdcca858625e4f9a21ae, type: 2}
+  temperatureRange1: {x: 0, y: 5000}
+  temperatureRange2: {x: 100, y: 10000}
+  result: {fileID: 11400000, guid: b8ee2eef29a88a7a1b3a8dfd6537eb44, type: 2}
